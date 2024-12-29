@@ -123,7 +123,7 @@ This implementation is based on:
 ```
 @article{softmax-not-enough,
   title={Softmax Is Not Enough: Theory-Guided Temperature Adaptation for Language Models},
-  journal={arXiv preprint arXiv:2311.11298},
+  journal={arXiv preprint arXiv:2410.01104v2},
   year={2023}
 }
 
