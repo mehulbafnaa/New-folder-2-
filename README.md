@@ -122,7 +122,7 @@ If you encounter issues:
 This implementation is based on:
 ```
 @article{softmax-not-enough,
-  title={Softmax Is Not Enough: Theory-Guided Temperature Adaptation for Language Models},
+  title={Softmax Is Not Enough(for sharp out-of-distribution)},
   journal={arXiv preprint arXiv:2410.01104v2},
   year={2023}
 }
