@@ -2,7 +2,7 @@
 
 This repository contains Colab notebook implementations exploring adaptive temperature scaling mechanisms for improving mathematical reasoning in Large Language Models (LLMs). The implementation is based on insights from two key papers:
 
-1. ["Softmax Is Not Enough: Theory-Guided Temperature Adaptation for Language Models"](https://arxiv.org/abs/2311.11298)
+1. ["softmax is not enough (for sharp out-of-distribution)"](https://arxiv.org/pdf/2410.01104)
 
 The implementation focuses on dynamically adjusting the temperature parameter based on prediction entropy to enhance model performance on mathematical reasoning tasks.
 
