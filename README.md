@@ -129,5 +129,3 @@ This implementation is based on:
 
 ```
 
-## Contributing
-Feel free to contribute to improving this implementation or exploring different parameter settings. The current results suggest there's room for optimization and better alignment with the papers' findings.
